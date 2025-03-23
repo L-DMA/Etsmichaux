@@ -1,0 +1,30 @@
+
+# Node modules (si jamais on ajoute Node.js plus tard)
+node_modules/
+
+# Dossiers de build temporaires
+dist/
+build/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# VSCode settings (facultatif si tu veux les garder privés)
+.vscode/
+
+# Systèmes Linux/Mac
+._*
+
+# Logs
+*.log
+
+# Backup / temp files
+*.tmp
+*.swp
+*.bak
+*~
+
+# Environnement
+.env
+.env.local
